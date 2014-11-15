@@ -1,5 +1,5 @@
-## Simple Specification
-### Extend `Specification` Class
+### Getting Started
+## Extend `Specification` Class
 
 ```
 import spock.lang.Specification

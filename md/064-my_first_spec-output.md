@@ -1,5 +1,5 @@
-## Simple Specification
-### Groovy PowerAssert Output
+### Getting Started
+## Groovy PowerAssert Output
 
 ```
 SimpleSpec
