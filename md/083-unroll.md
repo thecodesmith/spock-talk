@@ -10,7 +10,7 @@ def 'maximum of two numbers'() {
     where:
     a | b || c
     1 | 3 || 3
-    7 | 4 || 7
+    7 | 3 || 3
     0 | 0 || 0
 }
 ```
@@ -23,7 +23,7 @@ maximum of two numbers[1]   FAILED
 
 Math.max(a, b) == c
     |    |  |  |  |
-    |    7  0  |  0
+    |    7  3  |  3
     7          false
 
 maximum of two numbers[2]   PASSED

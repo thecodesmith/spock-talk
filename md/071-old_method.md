@@ -3,13 +3,13 @@
 
 ```
 def 'add item to collection'() {
-    given:
+    given: 'a list of values'
     def values = [4, 8, 15, 16]
 
-    when:
+    when: 'adding a single value'
     values << 23
 
-    then:
+    then: 'list size increases by 1'
     values.size() == old(values.size()) + 1
 }
 ```
