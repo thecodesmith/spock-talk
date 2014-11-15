@@ -1,6 +1,6 @@
 # Spock Talk
 
-_ An Introduction to Testing Using Groovy and Spock _
+_An Introduction to Testing Using Groovy and Spock_
 
 ## Topics
 
