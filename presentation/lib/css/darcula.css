@@ -1,10 +1,3 @@
-/*
-
-Zenburn style from voldmar.ru (c) Vladimir Epifanov <voldmar@voldmar.ru>
-based on dark.css by Ivan Sagalaev
-
-*/
-
 pre code {
   display: block; padding: 0.5em;
   background: #3F3F3F;
@@ -20,13 +13,13 @@ pre .nginx .title,
 pre .request,
 pre .status,
 pre .clojure .attribute {
-  color: #E3CEAB;
+  color: #CC8D41;
 }
 
 pre .django .template_tag,
 pre .django .variable,
 pre .django .filter .argument {
-  color: #DCDCDC;
+  color: #A286B1;
 }
 
 pre .number,
@@ -38,7 +31,7 @@ pre .dos .envvar,
 pre .dos .stream,
 pre .variable,
 pre .apache .sqbracket {
-  color: #EFDCBC;
+  color: #A286B1;
 }
 
 pre .dos .flow,
@@ -47,7 +40,7 @@ pre .python .exception,
 pre .python .built_in,
 pre .literal,
 pre .tex .special {
-  color: #EFEFAF;
+  color: #A286B1;
 }
 
 pre .diff .chunk,
@@ -65,14 +58,14 @@ pre .apache .tag,
 pre .nginx .built_in,
 pre .tex .command,
 pre .prompt {
-    color: #efef8f;
+    color: #ffffff;
 }
 
 pre .dos .winutils,
 pre .ruby .symbol,
 pre .ruby .symbol .string,
 pre .ruby .string {
-  color: #DCA3A3;
+  color: #699A68;
 }
 
 pre .diff .deletion,
@@ -90,7 +83,7 @@ pre .attr_selector,
 pre .pseudo,
 pre .apache .cbracket,
 pre .tex .formula {
-  color: #CC9393;
+  color: #699A68;
 }
 
 pre .shebang,
