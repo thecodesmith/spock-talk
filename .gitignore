@@ -5,5 +5,6 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
-spring-boot-talk.sublime-project
-spring-boot-talk.sublime-workspace
+out/
+.idea/
+*.log

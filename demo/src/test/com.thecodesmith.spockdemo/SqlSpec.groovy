@@ -22,7 +22,7 @@ class SqlSpec extends Specification {
                     (3, 'Subaru', 'Forrester', 2007)'''
     }
 
-    def 'sql datasource'() {
+    def 'use sql datasource'() {
         when:
         def cars = sql.rows('select * from cars')
 
