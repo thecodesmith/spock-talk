@@ -2,6 +2,10 @@
 
 _An Introduction to Testing Using Groovy and Spock_
 
+This presentation was originally given at Chippewa Valley Code Camp 2014. Sample code from the talk can be found in this repository. Check out the presentation slides here: [thecodesmith.github.io/spock-talk](http://thecodesmith.github.io/spock-talk).
+
+[chippewavalleycodecamp.com](http://chippewavalleycodecamp.com)
+
 ## Summary
 
 Geared toward Java developers, this talk presents an approach to unit testing that is highly expressive, elegant and clean. The Spock framework builds on the classic unit testing power of JUnit and leverages the dynamic power of the Groovy language. Because Groovy and Spock run on the JVM, they integrate seamlessly to test code written in Java and other JVM languages. 
