@@ -4,7 +4,11 @@ _An Introduction to Testing Using Groovy and Spock_
 
 ## Summary
 
-Geared toward Java developers, this talk presents an approach to unit testing that is highly expressive, elegant and clean. The Spock framework builds on the classic unit testing power of JUnit and leverages the dynamic power of the Groovy language. Because Groovy and Spock run on the JVM, they integrate seamlessly to test code written in Java and other JVM languages. This presentation will feature a quick intro to the power of Groovy, give a high-level overview of the Spock framework, then dive into the nuts and bolts of writing tests with Spock. This will incorporate both static examples and live coding, with plenty of opportunities for questions. Want to strengthen your testing skills? Want to have fun writing good tests? Spock and Groovy offer all the power you need, without the pain.
+Geared toward Java developers, this talk presents an approach to unit testing that is highly expressive, elegant and clean. The Spock framework builds on the classic unit testing power of JUnit and leverages the dynamic power of the Groovy language. Because Groovy and Spock run on the JVM, they integrate seamlessly to test code written in Java and other JVM languages. 
+
+This presentation will feature a quick intro to the power of Groovy, give a high-level overview of the Spock framework, then dive into the nuts and bolts of writing tests with Spock. This will incorporate both static examples and live coding, with plenty of opportunities for questions. 
+
+Want to strengthen your testing skills? Want to have fun writing good tests? Spock and Groovy offer all the power you need, without the pain.
 
 ## Topics
 
